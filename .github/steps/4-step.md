@@ -17,4 +17,9 @@ Let's make it a bit more friendly. 🤓
 Make the end game experience more friendly
 ```
 
+### 画面での確認
+
+- **Files changed** で変更された行の左にカーソルを合わせると `+` が表示されます。クリックすると、その行の下にコメント欄が開きます。
+- 修正案を投稿後、**Conversation** の該当コメントにある **Commit suggestion** を使います。保存後は **Files changed** で提案した文言になっていることを確認します。
+
 [原文](https://github.com/skills/review-pull-requests/blob/main/.github/steps/4-step.md)

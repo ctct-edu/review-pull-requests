@@ -16,4 +16,9 @@ Update game over message
 Update the game over message so people know how to play again!
 ```
 
+### 画面での確認
+
+- 自分のリポジトリ上部の **Pull requests** を開き、一覧右上で **New pull request** を選びます。比較画面で左側の **base** と右側の **compare** を設定します。
+- 作成画面で上の欄にタイトル、下の大きな欄に説明を入れます。作成後は **Files changed** で `index.html` の変更を確認します。
+
 [原文](https://github.com/skills/review-pull-requests/blob/main/.github/steps/1-step.md)

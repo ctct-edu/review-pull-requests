@@ -12,4 +12,9 @@
 Looks good to me. I think this is more intuitive. Nice work!
 ```
 
+### 画面での確認
+
+- PR 上部の **Files changed** を選びます。差分で削除行は赤、追加行は緑で表示されます。画面右上のレビュー用ボタンを開き、コメント欄に例文を入力して **Comment** として送信します。
+- **Conversation** に戻り、自分のレビューコメントが表示されたことを確認します。
+
 [原文](https://github.com/skills/review-pull-requests/blob/main/.github/steps/3-step.md)
